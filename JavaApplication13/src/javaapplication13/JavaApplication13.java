@@ -17,6 +17,7 @@ public class JavaApplication13 {
         // TODO code application logic here
         System.out.println("This is the main branch");
         System.out.println("This is change1 in the main branch");
+        System.out.println("This is change2 in the main branch");
     }
     
 }
